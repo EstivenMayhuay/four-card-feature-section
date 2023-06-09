@@ -126,6 +126,11 @@ body {
         gap: 3rem;
     }
 
+    .card img {
+        width: 56px;
+        height: 56px;
+    }
+
     .card-supervisor {
         grid-column: 1;
         grid-row: 1 / 3;
